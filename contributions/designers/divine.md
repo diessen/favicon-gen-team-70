@@ -1,0 +1,4 @@
+I also designed the wireframe, lofi, and hifi of the sign in, sign up, and verification page for tablet. I also designed the wireframes, and lofi of the web page. And I achieved this using Figma. I assisted in doing the User Experience research and I specifically did the user flow chart using figjam:  https://www.figma.com/file/puJd3cViS4jTRgsZAWdlct?node-id=0:1
+I also did the design briefing:  https://docs.google.com/document/d/1-viMql-hrxiO-CconNfqO3hUwJNyu4lUXXH_QWhEy78/edit
+ also did the research plan with my other colleagues, and specifically came up with the research objectives and research questions.: https://docs.google.com/document/d/1R3je6x6t4ShdWMIq0Ux9e_oMW1gWRbAnzE2V2UlVTP0/edit
+ GitHub link to the issue I was assigned. I designed the hifi of the sign in, sign up, verification, forgot password, and reset password page. I achieved this using Figma:  https://github.com/zuri-training/favicon-gen-team-70/issues/2#event-7096309109
